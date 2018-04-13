@@ -12,6 +12,6 @@ jobs:
          - mocha --version
          - vows --version
          - bower --version
-         - nodejs --version
+         - nvm list
          - npm --version
         

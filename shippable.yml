@@ -1,6 +1,8 @@
 jobs:
  - name: aarch64_u16nodall
    type: runSh
+   runtime:
+     - custom__aarch64__Ubuntu_16_04
    steps:
      - TASK:
          runtime:

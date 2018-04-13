@@ -11,7 +11,7 @@ jobs:
          - grunt --version
          - mocha --version
          - vows --version
-         - casperjs --version
          - bower --version
          - nodejs --version
          - npm --version
+         - casperjs --version

@@ -14,5 +14,3 @@ jobs:
          - bower --version
          - nvm list
          - npm --version
-         - echo "hi"
-        
